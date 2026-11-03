@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 0,
+    "Description": "Buy Fruits",
+    "Status": "todo",
+    "CreatedAt": "2026-11-03T15:56:30.90375+05:30",
+    "UpdatedAt": "2026-11-03T15:56:30.90375+05:30"
+  },
+  {
+    "ID": 1,
+    "Description": "Buy Vegtables",
+    "Status": "in-progress",
+    "CreatedAt": "2026-11-03T15:56:46.051909+05:30",
+    "UpdatedAt": "2026-11-03T15:56:46.05191+05:30"
+  },
+  {
+    "ID": 2,
+    "Description": "Go to gym",
+    "Status": "todo",
+    "CreatedAt": "2026-11-03T16:24:26.447279+05:30",
+    "UpdatedAt": "2026-11-03T16:24:26.447279+05:30"
+  },
+  {
+    "ID": 3,
+    "Description": "fix the logs bug",
+    "Status": "todo",
+    "CreatedAt": "2026-11-03T16:24:35.712058+05:30",
+    "UpdatedAt": "2026-11-03T16:24:35.712058+05:30"
+  }
+]
